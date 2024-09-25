@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: black;
+    color: white;
+}
+
+canvas {
+    border: 2px solid white;
+}
+
+#scoreBoard {
+    margin: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#gameOver {
+    color: red;
+}
+
