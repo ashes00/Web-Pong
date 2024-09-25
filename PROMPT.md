@@ -5,3 +5,5 @@ The computer player must not alwasy win.
 The game must keep track of the score at the web app. 
 
 After a player misses 5 balls you must say "GAME OVER!", then ask if they want to play again.  If a new game is requesetd reload the web page to start a fresh game.
+
+**Misc:** This is a Generative AI created program that was crafted from a PROMPT file.  See PROMPT.md for details.
